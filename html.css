@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+.logo{
+    display: flex;
+}
+.container{
+    width:90% ;
+    
+}
+img{
+    border: 5px solid rgb(43, 110, 204);
+    border-radius: 50%;
+    height: 750px;
+  
+}
+p{
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 30px;
+    font-family: 'Noto Serif', serif;
+    color: rgb(29, 101, 130);
+    width: 750px;
+}
+.p1{
+    margin-top: 50px;
+}
+.img1{
+    border: none;
+    width: 320px;
+    height: 300px;
+    margin-left: 110px;
+}
+
+.img4{
+    width: 300px;
+    height: 250px;
+    border: none;
+}
+body{
+    margin-top: 20px;
+}
+.img2{
+    margin-top: 0px;
+    margin-left: -0px;
+}
+.rasm{
+    display: flex;
+}
+.rasm1{
+    width: 300px;
+    height: 250px;
+    border: none;
+    border-radius: 0;
+    margin-left: 35px;
+}
+.chap{
+    width: 100%;
+    height: 80px;
+    background: rgb(56,180,215);
+background: linear-gradient(90deg, rgb(36, 89, 173) 66%, rgba(2,212,255,1) 100%);
+   
+}
+.itpark{
+    border:none;
+    border-radius: 0 ;
+    width: 200px;
+    height: 90px;
+    margin-left: 100px;
+    margin-top: -7px;
+}
+
+.logo1{
+    border:none;
+    border-radius: 0 ;
+    width: 250px;
+    height: 50px;
+    margin-left: 920px;
+    margin-top: -75px;
+    border-radius: 0%;
+    margin-bottom: 20px;
+}
+span{
+    font-weight: 900;
+}
